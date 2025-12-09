@@ -47,7 +47,7 @@ Le projet a été réalisé sous Python avec les librairies principales suivante
 Pour lancer le notebook :
 ```bash
 pip install torch transformers scikit-learn pandas plotly tiktoken spacy torchinfo
-
+```
 
 ---
 Auteure : Stérenn GÉLÉOC 
